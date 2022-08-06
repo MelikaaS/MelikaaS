@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on django project
+- 🔭 I’m currently working on [django projects]
 - 🌱 I’m currently learning backend development
 - 👯 I’m looking to collaborate on django projects
 - 🤔 I’m looking for help with ...
