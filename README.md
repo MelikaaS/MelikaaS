@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there, I'm Melika Sanei 👋
+Welcome to my GitHub profile! I'm a passionate Data Scientist and Machine Learning Engineer with a focus on applying advanced analytics and algorithms to solve real-world problems.
 
-<!--
-**MelikaaS/MelikaaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://github.com/MelikaaS/MelikaaS)
 
-Here are some ideas to get you started:
+## Projects I'm Working On 
+[Breast Cancer Prediction]()
 
-- 🔭 I’m currently working on [django projects]
-- 🌱 I’m currently learning backend development
-- 👯 I’m looking to collaborate on django projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Learning
+
+  - Machine learning with Python
+  - 
+## 📫 How to Reach Me
+- **Email**: [sanei.melika@gmail.com]
+
+## 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Sklearn-green)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Matplotlib-orange)
+
+## ⚡ Fun Facts
+
+- I enjoy working on challenging datasets and building predictive models that make an impact.
+- I love contributing to open-source projects and learning new technologies.
