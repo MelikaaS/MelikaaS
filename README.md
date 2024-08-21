@@ -1,10 +1,10 @@
 # Hi there, I'm Melika Sanei 👋
 Welcome to my GitHub profile! I'm a passionate Data Scientist and Machine Learning Engineer with a focus on applying advanced analytics and algorithms to solve real-world problems.
 
-![Profile views](https://github.com/MelikaaS/MelikaaS)
+[Profile views](https://github.com/MelikaaS/MelikaaS)
 
 ## 🔭 Projects I'm Working On 
--  [Facebook_live_seller_Clustering](https://github.com/MelikaaS/Facebook_live_seller_Clustering.git)
+-  [K-means Clustering With Python](https://github.com/MelikaaS/K-means-Clustering-with-Python)
 
 ## 🌱 What I'm Learning
 
