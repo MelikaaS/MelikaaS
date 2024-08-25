@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and Machine Learni
 [Profile views](https://github.com/MelikaaS/MelikaaS)
 
 ## 🔭 Projects I'm Working On 
--  [K-means Clustering With Python](https://github.com/MelikaaS/K-means-Clustering-with-Python)
+-  [LDA Classification] (https://github.com/MelikaaS/LDA_Classification/tree/main)
 
 ## 🌱 What I'm Learning
 
