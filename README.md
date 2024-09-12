@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and Machine Learni
 [Profile views](https://github.com/MelikaaS/MelikaaS)
 
 ## 🔭 Projects I'm Working On 
+-  I'm fully engrossed in studying for the IELTS exam.
 -  [Random Forest](https://github.com/MelikaaS/Random_Forest)
 -  [LDA Classification](https://github.com/MelikaaS/LDA_Classification/tree/main)
 
