@@ -1,32 +1,57 @@
 # Hi there, I'm Melika Sanei 👋
-Welcome to my GitHub profile! I'm an AI enthusiast with a background in Machine Learning. I'm currently expanding my skills in Python, Web Scraping, APIs, FastAPI, and LLM applications while building practical AI projects. 
 
-[Profile views](https://github.com/MelikaaS/MelikaaS)
+I'm an AI Engineer in progress with a background in Machine Learning and a Master's degree in Artificial Intelligence.
 
-## 🔭 Projects I'm Working On
-- Building Python automation and web scraping projects.
-- Learning FastAPI and modern AI development
-- Preparing for LLM and RAG applications 
+I'm currently strengthening my Python skills and building practical projects in Web Scraping, APIs, FastAPI, and Large Language Model (LLM) applications.
 
-## 🌱 What I'm Learning
+My goal is to become an AI Engineer focused on developing real-world AI and LLM-powered applications.
 
-  - Python
-  - Web Scraping
-  - Rest APIs
-  - Fast API
-  - LLM Applications
-  - Retrieval-Augmented Generation (RAG)
-   
+---
+
+## 🚀 What I'm Working On
+
+- Building Python projects
+- Learning Web Scraping and APIs
+- Studying FastAPI
+- Preparing for LLM and RAG development
+- Expanding my Git & GitHub portfolio
+
+---
+
+## 🌱 Currently Learning
+
+- Python
+- Web Scraping
+- REST APIs
+- FastAPI
+- Git & GitHub
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+
+---
+
+## 🛠 Technologies & Tools
+
+- Python
+- Git
+- GitHub
+- BeautifulSoup
+- Requests
+- CSV
+- JSON
+- Scikit-learn
+- NumPy
+- Pandas
+
+---
+
 ## 📫 How to Reach Me
-- **Email**: [sanei.melika@gmail.com]
 
-## 🛠️ Technologies & Tools
+📧 sanei.melika@gmail.com
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Sklearn-green)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Matplotlib-orange)
+---
 
 ## ⚡ Fun Facts
 
-- I enjoy building practical AI applications that solve real-world problems.
-- I believe continous learning and hands-on projects are the best way to grow as an AI engineer.
+- I enjoy turning ideas into practical AI applications.
+- I believe the best way to learn AI is by building real projects.
