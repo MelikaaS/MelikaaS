@@ -1,16 +1,21 @@
 # Hi there, I'm Melika Sanei 👋
-Welcome to my GitHub profile! I'm a passionate Data Scientist and Machine Learning Engineer with a focus on applying advanced analytics and algorithms to solve real-world problems.
+Welcome to my GitHub profile! I'm an AI enthusiast with a background in Machine Learning. I'm currently expanding my skills in Python, Web Scraping, APIs, FastAPI, and LLM applications while building practical AI projects. 
 
 [Profile views](https://github.com/MelikaaS/MelikaaS)
 
-## 🔭 Projects I'm Working On 
--  **I'm fully engrossed in studying for the IELTS exam.**
--  [Random Forest](https://github.com/MelikaaS/Random_Forest)
--  [LDA Classification](https://github.com/MelikaaS/LDA_Classification/tree/main)
+## 🔭 Projects I'm Working On
+- Building Python automation and web scraping projects.
+- Learning FastAPI and modern AI development
+- Preparing for LLM and RAG applications 
 
 ## 🌱 What I'm Learning
 
-  - Machine learning with Python
+  - Python
+  - Web Scraping
+  - Rest APIs
+  - Fast API
+  - LLM Applications
+  - Retrieval-Augmented Generation (RAG)
    
 ## 📫 How to Reach Me
 - **Email**: [sanei.melika@gmail.com]
@@ -23,5 +28,5 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and Machine Learni
 
 ## ⚡ Fun Facts
 
-- I enjoy working on challenging datasets and building predictive models that make an impact.
-- I love contributing to open-source projects and learning new technologies.
+- I enjoy building practical AI applications that solve real-world problems.
+- I believe continous learning and hands-on projects are the best way to grow as an AI engineer.
